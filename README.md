@@ -36,5 +36,5 @@ Os desafios foram solucionados seguindo os requisitos propostos da maneira mais 
 O objetivo foi apenas fazer exercicio da lógica e dos conhecimentos de typescript para superar os desafios.
 
 ### Observações
-Realisar o desafio 4, o mais complexo dentre os propostos, me fez perceber o poder que pode ser ganho com o uso de bibliotecas especializadas para a solução de problemas no dia a dia. Se os desafios não tivessem como principal objetivo, o teste de logica e de noções de typescript, eu faria diferente.
+Realizar o desafio 4, o mais complexo dentre os propostos, me fez perceber o poder que pode ser ganho com o uso de bibliotecas especializadas para a solução de problemas no dia a dia. Se os desafios não tivessem como principal objetivo, o teste de logica e de noções de typescript, eu faria diferente.
 Como utilizar bibliotecas melhores para consumir a API do movies.db e faria uso de React para uma melhor componentização do codigo.
